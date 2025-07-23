@@ -1,4 +1,4 @@
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/947ec176-6095-4a3c-a989-ea736019bd7e" />- 👋 Hi, I’m Muhammad Ibrar
+- 👋 Hi, I’m Muhammad Ibrar
 - 👀 I’m interested in Python, Web Development & New Emerging Technologies 
 - 🌱 I’m currently learning Web Development & Python
 - 💞️ I’m looking to collaborate on open sources projects on Web
